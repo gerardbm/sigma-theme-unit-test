@@ -1,0 +1,125 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the
+# server process.
+
+---
+
+# Site options
+title: Sigma theme
+description: >-  # Ignore newlines until "baseurl:"
+  This is the description of your website. This description will be used
+  in the meta tags, useful for SEO.
+baseurl: ""  # Subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000"
+lang: en
+permalink: /:title/
+
+# Logo path
+logo: /logo/logo.png
+
+# Favicons
+favicon_ico: /favicon.ico
+apple_touch: /icons/apple-touch-icon.png
+favicon_16: /icons/favicon-16x16.png
+favicon_32: /icons/favicon-32x32.png
+webmanifest: /icons/site.webmanifest
+browserconfig: /icons/browserconfig.xml
+mask_icon: /icons/safari-pinned-tab.svg
+mask_color: "#88aa00"
+
+# Breadcrumbs
+bc_sep: /
+
+# Adsense
+adsense:
+  sidebar: false
+  top: false
+  bottom: false
+
+# Open Graph
+fb_admins: 123456789012345
+fb_app_id: 123456789012345
+og_locale: en_US
+
+# Twitter cards
+twc_user: jekyllrb
+
+# Social media links
+google_analytics: UA-12345678-1
+twitter_username: jekyllrb
+facebook_username: jekyllrb
+github_username: jekyll
+sitemap_link: true
+rss_feedburner: https://feeds.feedburner.com/jekyll
+
+# Web services
+# google_sv:
+# bing_sv:
+# alexa_sv:
+
+# Footer information
+first_year: 2019
+copyright: Made with love ♥
+
+# Add scripts
+mathjax: false
+
+# Defaults for all posts and all pages
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      read_time: true
+      breadcrumbs: true
+      share: true
+      sidebar: right
+      rouge: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      read_time: true
+      breadcrumbs: true
+      share: false
+      sidebar: false
+
+# Build settings
+markdown: kramdown
+theme: sigma-theme
+plugins:
+  - jekyll-data
+  - jekyll-feed
+  - jekyll-sitemap
+
+# include:
+#   - .htaccess
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - deploy.sh
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
