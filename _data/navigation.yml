@@ -1,6 +1,9 @@
 ---
 docs:
 
+- title: Layouts
+  url: /layouts/
+
 - title: Edge Case
   url: /edge-case/
 
