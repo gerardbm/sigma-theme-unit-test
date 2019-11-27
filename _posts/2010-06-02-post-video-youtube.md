@@ -2,7 +2,7 @@
 layout: post
 title: "Post: Video (YouTube)"
 categories:
-  - Post Formats
+  - Post formats
 tags:
   - Post Formats
 ---

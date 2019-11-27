@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Case: Many Categories"
 categories:
-  - Edge Case
+  - Edge case
   - aciform
   - antiquarianism
   - arrangement

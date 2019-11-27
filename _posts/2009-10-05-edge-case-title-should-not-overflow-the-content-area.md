@@ -2,7 +2,7 @@
 layout: post
 title: "Antidisestablishmentarianism"
 categories:
-  - Edge Case
+  - Edge case
 tags:
   - content
   - css

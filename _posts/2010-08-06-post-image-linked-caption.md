@@ -2,7 +2,7 @@
 layout: post
 title: "Post: Image (Linked with Caption)"
 categories:
-  - Post Formats
+  - Post formats
 tags:
   - image
   - Post Formats

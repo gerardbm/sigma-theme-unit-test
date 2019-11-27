@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Case: No Body Content"
 categories:
-  - Edge Case
+  - Edge case
 tags:
   - content
   - edge case

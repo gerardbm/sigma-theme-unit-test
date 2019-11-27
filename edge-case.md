@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Edge Case
+title: Edge case
 permalink: /edge-case/
 sidebar: right
 ---
 
-{% include loop-excerpt.html cat="Edge Case" %}
+{% include loop-excerpt.html cat="Edge case" %}

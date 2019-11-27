@@ -4,7 +4,7 @@ title: Article with author + mathjax + sidebar left + custom excerpt
 permalink: /article-with-author/
 author: Doctor Jekyll
 categories: 
-  - Edge Case
+  - Edge case
 excerpt: >-
   This is a manual excerpt text.
 robots: index,follow

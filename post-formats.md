@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Post Formats
+title: Post formats
 permalink: /post-formats/
 sidebar: right
 ---
 
-{% include loop-excerpt.html cat="Post Formats" %}
+{% include loop-excerpt.html cat="Post formats" %}

@@ -37,8 +37,8 @@ mask_color: "#88aa00"
 # Breadcrumbs
 bc_sep: /
 
-# Adsense
-adsense:
+# Advertisements
+ads:
   sidebar: false
   top: false
   bottom: false

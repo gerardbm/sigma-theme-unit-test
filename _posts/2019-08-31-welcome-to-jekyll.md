@@ -3,7 +3,7 @@ layout           : post
 title            : "Welcome to Jekyll (no sidebar)"
 date             : 2019-08-31 13:52:31 +0200
 last_modified_at : 2019-09-19 13:52:31 +0200
-categories       : ['Edge Case', Jekyll]
+categories       : ['Edge case', Jekyll]
 permalink        : /welcome-to-jekyll/
 sidebar          : false
 ---

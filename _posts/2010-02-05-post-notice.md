@@ -2,7 +2,7 @@
 layout: post
 title: "Post: Notice"
 categories:
-  - Post Formats
+  - Post formats
 tags:
   - Post Formats
   - notice

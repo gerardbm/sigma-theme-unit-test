@@ -2,7 +2,7 @@
 layout: post
 title: "Post: Image (Standard)"
 categories:
-  - Post Formats
+  - Post formats
 tags:
   - image
   - Post Formats
