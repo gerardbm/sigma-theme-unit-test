@@ -5,6 +5,7 @@ categories: Layouts
 author: Editor in chief
 permalink: /layout-post-without-sidebar/
 sidebar: false
+order: 3
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut lorem ipsum. Curabitur cursus consectetur dolor a pharetra. Cras posuere risus lectus.
 ---
 

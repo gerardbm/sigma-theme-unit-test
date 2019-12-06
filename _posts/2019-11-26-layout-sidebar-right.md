@@ -5,6 +5,7 @@ categories: Layouts
 author: Editor in chief
 permalink: /layout-post-with-sidebar-right-side/
 sidebar: right
+order: 1
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut lorem ipsum. Curabitur cursus consectetur dolor a pharetra. Cras posuere risus lectus.
 ---
 
