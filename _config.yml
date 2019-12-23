@@ -57,7 +57,7 @@ twitter_username: jekyllrb
 facebook_username: jekyllrb
 github_username: jekyll
 sitemap_link: true
-rss_feedburner: https://feeds.feedburner.com/jekyll
+# rss_feed: https://feeds.feedburner.com/jekyll
 
 # Web services
 # google_sv:
