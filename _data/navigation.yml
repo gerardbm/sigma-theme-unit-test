@@ -1,6 +1,9 @@
 ---
 docs:
 
+- title: Home
+  url: /
+
 - title: Layouts
   url: /layouts/
 

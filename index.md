@@ -6,8 +6,6 @@ sidebar: false
 rouge: true
 ---
 
-# Sigma theme for Jekyll
-
 This theme is a subjective one focused on speed and SEO, taking care of a beautiful appearance.
 
 - Golden proportion header.

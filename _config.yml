@@ -34,6 +34,15 @@ browserconfig: /icons/browserconfig.xml
 mask_icon: /icons/safari-pinned-tab.svg
 mask_color: "#88aa00"
 
+# Home settings
+home:
+  header:
+    title: Sigma-theme for <span>Jekyll</span> v4.0.0
+    text: >-
+      This theme is focused on <strong>speed</strong> and <strong>SEO</strong>,
+      taking care of a beautiful appearance, with <u>golden proportions</u>,
+      a responsive design, a sticky menu and a lot of options.
+
 # Breadcrumbs
 bc_sep: /
 
