@@ -32,7 +32,7 @@ favicon_32: /icons/favicon-32x32.png
 webmanifest: /icons/site.webmanifest
 browserconfig: /icons/browserconfig.xml
 mask_icon: /icons/safari-pinned-tab.svg
-mask_color: "#88aa00"
+mask_color: "#f17e01"
 
 # Home settings
 home:
