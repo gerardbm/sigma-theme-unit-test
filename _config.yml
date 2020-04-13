@@ -52,6 +52,11 @@ ads:
   top: false
   bottom: false
 
+# Sidenav
+sidenav:
+  categories: true
+  posts: true
+
 # Open Graph
 fb_admins: 123456789012345
 fb_app_id: 123456789012345
@@ -92,6 +97,7 @@ defaults:
       share: true
       sidebar: right
       rouge: true
+      sidenav: true
   -
     scope:
       path: ""
@@ -101,6 +107,7 @@ defaults:
       breadcrumbs: true
       share: false
       sidebar: false
+      sidenav: true
 
 # Build settings
 markdown: kramdown
