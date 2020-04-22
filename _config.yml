@@ -98,6 +98,7 @@ defaults:
       sidebar: right
       rouge: true
       sidenav: true
+      nextprev: true
   -
     scope:
       path: ""
