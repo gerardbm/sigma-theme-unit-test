@@ -46,17 +46,6 @@ home:
 # Breadcrumbs
 bc_sep: /
 
-# Advertisements
-ads:
-  sidebar: false
-  top: false
-  bottom: false
-
-# Sidenav
-sidenav:
-  categories: true
-  posts: true
-
 # Open Graph
 fb_admins: 123456789012345
 fb_app_id: 123456789012345
@@ -95,10 +84,18 @@ defaults:
       read_time: true
       breadcrumbs: true
       share: true
-      sidebar: right
       rouge: true
-      sidenav: true
       nextprev: true
+      sidebar: right
+      sticky: true
+      sidenav:
+        posts: true
+      zone:
+        content_top: false
+        content_bottom: false
+        sidebar_top: false
+        sidebar_bottom: false
+
   -
     scope:
       path: ""
@@ -107,8 +104,15 @@ defaults:
       read_time: true
       breadcrumbs: true
       share: false
-      sidebar: false
-      sidenav: true
+      sidebar: right
+      sidenav:
+        pages: true
+        categories: true
+      zone:
+        content_top: false
+        content_bottom: false
+        sidebar_top: false
+        sidebar_bottom: false
 
 # Build settings
 markdown: kramdown

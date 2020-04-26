@@ -13,7 +13,7 @@ keywords:
   - Keyword 2
   - Keyword 3
 mathjax: true
-image: /images/jekyll-logo.png
+image: images/unsplash-image-9.jpg
 sidebar: left
 ---
 

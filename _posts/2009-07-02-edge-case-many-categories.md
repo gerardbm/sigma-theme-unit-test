@@ -3,20 +3,8 @@ layout: post
 title: "Edge Case: Many Categories"
 categories:
   - Edge case
-  - aciform
-  - antiquarianism
-  - arrangement
-  - asmodeus
-  - broder
-  - buying
-  - championship
-  - chastening
-  - disinclination
-  - disinfection
-  - dispatch
-  - echappee
-  - enphagy
-  - equipollent
+  - Markup
+  - Post formats
 tags:
   - categories
   - edge case
