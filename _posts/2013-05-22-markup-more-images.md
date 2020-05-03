@@ -4,6 +4,7 @@ title: "Markup: Another Post with Images"
 excerpt: "Examples and code for displaying images in posts."
 categories:
   - Markup
+  - Images
 tags: 
   - sample post
   - images

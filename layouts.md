@@ -1,10 +1,10 @@
 ---
 layout: category
-title: Layouts
-permalink: /layouts/
+title: Images
+permalink: /images/
 sidebar: right
 ---
 
 This category shows the posts ordered with the `order: n` option in the front matter.
 
-{% include loop-excerpt.html cat="Layouts" %}
+{% include loop-excerpt.html cat="Images" %}

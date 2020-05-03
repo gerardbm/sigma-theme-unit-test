@@ -3,6 +3,7 @@ layout: post
 title: "Markup: Image Alignment"
 categories:
   - Markup
+  - Images
 tags:
   - alignment
   - captions
