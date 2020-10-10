@@ -13,7 +13,7 @@ This theme is a subjective one focused on speed and SEO, taking care of a beauti
 - SEO friendly, fully optimized.
 - Sticky menu + scroll up button.
 - Code blocks syntax highlighting.
-- LaTeX maths, MathJax integrated.
+- LaTeX maths, Katex integrated.
 - Layouts with sidebar right/left.
 - Loop posts in category pages.
 - Breadcrumbs with Schema.org.
@@ -158,9 +158,9 @@ There is no prevision of using pagination in this theme at the moment, so `rel="
 
 ### Maths
 
-MathJax library, in post or page front matter:
+Katex library, in post or page front matter:
 
-- `mathjax`: true or false to use MathJax.
+- `latex`: true or false to use Katex.
 
 ### Misc
 
@@ -187,7 +187,7 @@ defaults:
       breadcrumbs: true
       share: true
       sidebar: right
-      mathjax: true
+      latex: true
   -
     scope:
       path: ""

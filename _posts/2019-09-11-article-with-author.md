@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article with author + mathjax + sidebar left + custom excerpt
+title: Article with author + latex + sidebar left + custom excerpt
 permalink: /article-with-author/
 author: Doctor Jekyll
 categories: 
@@ -12,7 +12,7 @@ keywords:
   - Keyword 1
   - Keyword 2
   - Keyword 3
-mathjax: true
+latex: true
 image: images/unsplash-image-9.jpg
 sidebar: left
 ---

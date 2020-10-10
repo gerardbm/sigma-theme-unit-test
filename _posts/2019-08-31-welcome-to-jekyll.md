@@ -39,7 +39,7 @@ print_hi('Gerard')
 .highlight .sd { color: #aa5500  } /* Literal.String.Doc */
 {% endhighlight %}
 
-And now let's try with some LaTeX using MathJax!
+And now let's try with some LaTeX using Katex!
 
 $$\frac{1}{3}=0.\overline{3}\approx0.33333...$$
 

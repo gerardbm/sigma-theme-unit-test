@@ -72,7 +72,7 @@ first_year: 2019
 copyright: Made with love ♥
 
 # Add scripts
-mathjax: false
+latex: false
 
 # Defaults for all posts and all pages
 defaults:
