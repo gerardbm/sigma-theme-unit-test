@@ -40,7 +40,8 @@ home:
     title: Sigma-theme for <span>Jekyll</span> v4.0.0
     text: >-
       This theme is focused on <strong>speed</strong> and <strong>SEO</strong>,
-      taking care of a beautiful appearance, with <u>golden proportions</u>,
+      taking care of a <a href="/">beautiful</a> appearance, with
+      <u>golden proportions</u>,
       a responsive design, a sticky menu and a lot of options.
 
 # Breadcrumbs
@@ -59,8 +60,9 @@ google_analytics: UA-12345678-1
 twitter_username: jekyllrb
 facebook_username: jekyllrb
 github_username: jekyll
-sitemap_link: true
 rss_feed: https://feeds.feedburner.com/jekyll
+sitemap_link: true
+color_toggle: true
 
 # Web services
 # google_sv:
@@ -73,6 +75,7 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
+version: "2.0.0"
 
 # Defaults for all posts and all pages
 defaults:
