@@ -62,6 +62,7 @@ facebook_username: jekyllrb
 github_username: jekyll
 rss_feed: https://feeds.feedburner.com/jekyll
 sitemap_link: true
+search_url: /search/
 color_toggle: true
 
 # Web services
