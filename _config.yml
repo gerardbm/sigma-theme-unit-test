@@ -22,7 +22,10 @@ lang: en
 permalink: /:title/
 
 # Logo path
-logo: /logo/logo.png
+logo:
+  path: /logo/logo.png
+  width: 131
+  height: 25
 
 # Favicons
 favicon_ico: /favicon.ico
@@ -45,7 +48,7 @@ home:
       a responsive design, a sticky menu and a lot of options.
 
 # Breadcrumbs
-bc_sep: /
+bc_sep: "/"
 
 # Open Graph
 fb_admins: 123456789012345
