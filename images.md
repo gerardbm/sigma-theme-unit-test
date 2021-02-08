@@ -1,6 +1,8 @@
 ---
 layout: category
 title: Images
+cat: Images
+h1: Images
 permalink: /images/
 sidebar: right
 ---

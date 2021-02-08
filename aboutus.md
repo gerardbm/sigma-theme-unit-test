@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About us
+h1: About us
 permalink: /about-us/
 robots: noindex,nofollow
 sitemap: false

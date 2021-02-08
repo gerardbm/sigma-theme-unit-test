@@ -1,6 +1,8 @@
 ---
 layout: category
 title: Layouts
+cat: Layouts
+h1: Layouts
 permalink: /layouts/
 sidebar: right
 ---

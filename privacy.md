@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy page
+h1: Privacy page
 permalink: /privacy/
 robots: noindex,nofollow
 sitemap: false

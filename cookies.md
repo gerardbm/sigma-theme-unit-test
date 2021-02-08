@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cookies page
+h1: Cookies!
 permalink: /cookies/
 robots: noindex,nofollow
 sitemap: false

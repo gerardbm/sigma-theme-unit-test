@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terms page
+h1: Terms page
 permalink: /terms/
 robots: noindex,nofollow
 sitemap: false
