@@ -95,6 +95,9 @@ defaults:
       nextprev: true
       sidebar: right
       sticky: true
+      postmeta: true
+      ldjson: true
+      og_type: article
       sidenav:
         posts: true
       zone:
