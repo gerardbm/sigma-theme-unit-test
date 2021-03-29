@@ -72,6 +72,7 @@ color_toggle: true
 # google_sv:
 # bing_sv:
 # alexa_sv:
+# adsense: ca-pub-0123456789012345
 
 # Footer information
 first_year: 2019
@@ -100,11 +101,6 @@ defaults:
       og_type: article
       sidenav:
         posts: true
-      zone:
-        content_top: false
-        content_bottom: false
-        sidebar_top: false
-        sidebar_bottom: false
 
   -
     scope:
@@ -118,11 +114,6 @@ defaults:
       sidenav:
         pages: true
         categories: true
-      zone:
-        content_top: false
-        content_bottom: false
-        sidebar_top: false
-        sidebar_bottom: false
 
 # Build settings
 markdown: kramdown

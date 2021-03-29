@@ -6,10 +6,10 @@ author: Editor in chief
 permalink: /post-with-zones/
 sidebar: right
 zone:
-  content_top: true
-  content_bottom: true
-  sidebar_top: true
-  sidebar_bottom: true
+  content_top: zone-top.html
+  content_bottom: zone-bottom.html
+  sidebar_top: zone-sidebar-top.html
+  sidebar_bottom: zone-sidebar-bottom.html
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut lorem ipsum. Curabitur cursus consectetur dolor a pharetra. Cras posuere risus lectus.
 ---
 
