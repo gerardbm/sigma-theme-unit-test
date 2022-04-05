@@ -78,7 +78,7 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
-version: "2.7.9"
+version: "2.7.10"
 
 # Defaults for all posts and all pages
 defaults:
