@@ -1,14 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the
-# server process.
-
 ---
 
 # Site options
@@ -21,7 +10,7 @@ sticky_menu: true
 
 # Logo path
 logo:
-  path: /logo/logo.png
+  path: /logo/logo.svg
   width: 131
   height: 25
 
@@ -35,6 +24,9 @@ browserconfig: /icons/browserconfig.xml
 mask_icon: /icons/safari-pinned-tab.svg
 mask_color: "#f17e01"
 
+# Theme color
+theme_color: "#848688"
+
 # Home settings
 home:
   header:
@@ -46,7 +38,7 @@ home:
       a responsive design, a sticky menu and a lot of options.
 
 # Breadcrumbs
-bc_sep: "/"
+bc_sep: /
 
 # Open Graph
 fb_admins: 123456789012345
@@ -63,8 +55,8 @@ facebook_username: jekyllrb
 github_username: jekyll
 rss_feed: https://feeds.feedburner.com/jekyll
 sitemap_link: true
-search_url: /search/
 color_toggle: true
+search_url: /search/
 
 # Web services
 # google_sv:
@@ -78,12 +70,11 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
-version: "2.7.10"
+version: "2.9.1"
 
 # Defaults for all posts and all pages
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -91,7 +82,7 @@ defaults:
       breadcrumbs: true
       share: true
       rouge: true
-      nextprev: true
+      nextprev: cat
       sidebar: right
       sticky_side: false
       postmeta: true
@@ -99,9 +90,7 @@ defaults:
       og_type: article
       sidenav:
         posts: true
-
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:

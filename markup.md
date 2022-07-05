@@ -7,4 +7,4 @@ permalink: /markup/
 sidebar: right
 ---
 
-{% include loop-excerpt.html cat="Markup" %}
+{% include loop-excerpt-cat.html cat="Markup" %}

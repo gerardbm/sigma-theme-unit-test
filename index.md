@@ -215,7 +215,7 @@ permalink: /awesome-category/
 Then include this line in the content:
 
 ```liquid
-{% raw %}{% include loop-excerpt.html cat="Awesome category" %}{% endraw %}
+{% raw %}{% include loop-excerpt-cat.html cat="Awesome category" %}{% endraw %}
 ```
 
 This will list all the posts of this category.

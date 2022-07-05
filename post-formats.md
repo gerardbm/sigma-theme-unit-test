@@ -7,4 +7,4 @@ permalink: /post-formats/
 sidebar: right
 ---
 
-{% include loop-excerpt.html cat="Post formats" %}
+{% include loop-excerpt-cat.html cat="Post formats" %}

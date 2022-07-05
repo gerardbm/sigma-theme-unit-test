@@ -9,4 +9,4 @@ sidebar: right
 
 This category shows the posts ordered with the `order: n` option in the front matter.
 
-{% include loop-excerpt.html cat="Images" %}
+{% include loop-excerpt-cat.html cat="Images" %}
