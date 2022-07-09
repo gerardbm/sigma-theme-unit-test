@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/gerardbm/sigma-theme.git
-  revision: faefb9c55f4309f091deb3f41371cb39840ad946
+  revision: c5d558c70bee8d568c47071d1a17ace56433fdca
   specs:
     sigma-theme (0.1.0)
       jekyll (~> 4.0)
