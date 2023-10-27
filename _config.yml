@@ -7,6 +7,9 @@ url: "http://127.0.0.1:4000"
 lang: en
 permalink: /:title/
 sticky_menu: true
+scrollup: true
+topbar: true
+footer_icons: true
 
 # Logo path
 logo:
@@ -61,7 +64,6 @@ search_url: /search/
 # Web services
 # google_sv:
 # bing_sv:
-# alexa_sv:
 # adsense: ca-pub-0123456789012345
 
 # Footer information
@@ -70,7 +72,7 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
-version: "2.9.11"
+version: "3.0.0"
 
 # Defaults for all posts and all pages
 defaults:
@@ -84,7 +86,7 @@ defaults:
       rouge: true
       nextprev: cat
       sidebar: right
-      sticky_side: false
+      sticky_side: true
       postmeta: true
       ldjson: true
       og_type: article
@@ -98,7 +100,7 @@ defaults:
       breadcrumbs: true
       share: false
       sidebar: right
-      sticky_side: false
+      sticky_side: true
       sidenav:
         pages: true
         categories: true
