@@ -10,8 +10,9 @@ sticky_menu: true
 scrollup: true
 topbar: true
 footer_icons: true
+words_per_minute: 200
 
-# Logo path
+# Logo
 logo:
   path: /logo/logo.svg
   width: 131
@@ -55,6 +56,10 @@ twc_user: jekyllrb
 google_analytics: UA-12345678-1
 twitter_username: jekyllrb
 facebook_username: jekyllrb
+linkedin_username: jekyllrb
+pinterest_username: jekyllrb
+instagram_username: jekyllrb
+youtube_username: jekyllrb
 github_username: jekyll
 rss_feed: https://feeds.feedburner.com/jekyll
 sitemap_link: true
@@ -72,7 +77,12 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
-version: "3.0.0"
+version: "4.1.6"
+# custom_css: custom.css
+# custom_head: custom_head.html
+# custom_js_top: custom_top.js
+# custom_js_foot: custom_foot.js
+linking: true
 
 # Defaults for all posts and all pages
 defaults:
@@ -84,7 +94,9 @@ defaults:
       breadcrumbs: true
       share: true
       rouge: true
-      nextprev: cat
+      nav_by: cat
+      navbar: true
+      post_np: true
       sidebar: right
       sticky_side: true
       postmeta: true
@@ -112,6 +124,7 @@ plugins:
   - jekyll-data
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-minifier
 
 # include:
 #   - .htaccess

@@ -12,9 +12,13 @@ gem "jekyll", "~> 4.0.0"
 # gem "minima", "~> 2.5"
 
 # For development
+# gem "rouge", path: "/home/gerard/Workspace/rouge-3/"
 # gem "sigma-theme", path: "/home/gerard/Workspace/sigma-theme/"
+
 # For production
+gem "rouge", git: "https://gitlab.com/gerardbm/rouge-3.git"
 gem "sigma-theme", git: "https://github.com/gerardbm/sigma-theme.git"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -23,12 +27,13 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-sitemap", "~> 1.3.1"
   gem "jekyll-data", "~> 1.1.0"
+  gem "jekyll-minifier", "~> 0.1.10"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "~> 1.2.10"
   gem "tzinfo-data"
 end
 
