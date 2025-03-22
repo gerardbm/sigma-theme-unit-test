@@ -109,34 +109,55 @@ Make any link standout more when applying the `.btn` class.
 <a href="#" class="btn-success">Success Button</a>
 ```
 
-[Primary Button](#){: .btn}
-[Success Button](#){: .btn .btn-success}
-[Warning Button](#){: .btn .btn-warning}
-[Danger Button](#){: .btn .btn-danger}
-[Info Button](#){: .btn .btn-info}
-[Inverse Button](#){: .btn .btn-inverse}
-[Light Outline Button](#){: .btn .btn-light-outline}
+[Default Button](#){: .btn-default}
+
+[Red Button](#){: .btn-red}
+
+[Orange Button](#){: .btn-orange}
+
+[Green Button](#){: .btn-green}
+
+[Teal Button](#){: .btn-teal}
+
+[Blue Button](#){: .btn-blue}
+
+[Purple Button](#){: .btn-purple}
+
+[Pink Button](#){: .btn-pink}
+
+[Inverse Button](#){: .btn-inverse}
 
 ```markdown
-[Primary Button Text](#link){: .btn}
-[Success Button Text](#link){: .btn .btn-success}
-[Warning Button Text](#link){: .btn .btn-warning}
-[Danger Button Text](#link){: .btn .btn-danger}
-[Info Button Text](#link){: .btn .btn-info}
-[Inverse Button](#link){: .btn .btn-inverse}
-[Light Outline Button](#link){: .btn .btn-light-outline}
+[Default Button](#){: .btn-default}
+[Red Button](#){: .btn-red}
+[Orange Button](#){: .btn-orange}
+[Green Button](#){: .btn-green}
+[Teal Button](#){: .btn-teal}
+[Blue Button](#){: .btn-blue}
+[Purple Button](#){: .btn-purple}
+[Pink Button](#){: .btn-pink}
+[Inverse Button](#){: .btn-inverse}
 ```
 
-[X-Large Button](#){: .btn .btn-x-large}
-[Large Button](#){: .btn .btn-large}
-[Default Button](#){: .btn}
-[Small Button](#){: .btn .btn-small}
+[X-Large Button](#){: .btn-default .btn-x-large}
+
+[Large Button](#){: .btn-default .btn-large}
+
+[Default Button](#){: .btn-default}
+
+[Small Button](#){: .btn-default .btn-small}
 
 ```markdown
-[X-Large Button](#link){: .btn .btn-x-large}
-[Large Button](#link){: .btn .btn-large}
-[Default Button](#link){: .btn}
-[Small Button](#link){: .btn .btn-small}
+[X-Large Button](#link){: .btn-default .btn-x-large}
+[Large Button](#link){: .btn-default .btn-large}
+[Default Button](#link){: .btn-default}
+[Small Button](#link){: .btn-default .btn-small}
+```
+
+[Default Button full width](#){: .btn-default .btn-block}
+
+```markdown
+[Default Button full widht](#){: .btn-default .btn-block}
 ```
 
 ## Notices
@@ -150,8 +171,8 @@ Make any link standout more when applying the `.btn` class.
 **Watch out!** You can also add notices by appending `{: .notice-warning}` to a paragraph.
 {: .notice-warning}
 
-**Watch out!** You can also add notices by appending `{: .notice-danger}` to a paragraph.
-{: .notice-danger}
+**Watch out!** You can also add notices by appending `{: .notice-alert}` to a paragraph.
+{: .notice-alert}
 
 ## HTML Tags
 

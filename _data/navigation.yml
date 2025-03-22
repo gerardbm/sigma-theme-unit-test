@@ -6,6 +6,21 @@ docs:
 
 - title: Layouts
   url: /layouts/
+  cat:
+  - title: Images
+    url: /images/
+
+  - title: Edge case
+    url: /edge-case/
+
+  - title: Markup
+    url: /markup/
+
+  - title: Post formats
+    url: /post-formats/
+
+- title: Images
+  url: /images/
 
 - title: Edge case
   url: /edge-case/
