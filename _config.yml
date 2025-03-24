@@ -14,9 +14,7 @@ words_per_minute: 200
 
 # Logo
 logo:
-  path: /logo/logo.svg
-  width: 131
-  height: 25
+  path: svg/logo.svg
 
 # Favicons
 favicon_ico: /favicon.ico
@@ -78,7 +76,7 @@ copyright: Made with love ♥
 # Add scripts
 latex: false
 version: "4.1.6"
-# custom_css: custom.css
+custom_css: custom.css
 # custom_head: custom_head.html
 # custom_js_top: custom_top.js
 # custom_js_foot: custom_foot.js

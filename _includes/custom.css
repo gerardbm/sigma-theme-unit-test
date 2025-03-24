@@ -1,0 +1,17 @@
+.logo .first-letter {
+	color: #095cae;
+}
+
+.dark .logo .first-letter {
+	color: #ff7f2a;
+}
+
+.logo svg path {
+  color: dimgray;
+  transition: color 0.3s ease-in-out;
+}
+
+.dark .logo svg path {
+  color: darkgray;
+}
+

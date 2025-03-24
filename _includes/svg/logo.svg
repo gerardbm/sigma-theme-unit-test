@@ -1,0 +1,46 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="131"
+   height="25"
+   viewBox="0 0 34.660416 6.6145835"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path8417" class="first-letter"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Elemental End';-inkscape-font-specification:'Elemental End';letter-spacing:0px;word-spacing:0px;fill:currentcolor;fill-opacity:1;stroke:none;stroke-width:0.22577778"
+     d="M 2.204861,3.96876 Q 0,3.96876 0,1.98438 0,1e-5 2.204861,1e-5 h 4.4097221 v 1.32291 h -4.189236 q -1.1024305,0 -1.1024305,0.66146 0,0.66146 1.1024305,0.66146 H 4.409722 q 2.2048611,0 2.2048611,1.98438 0,1.98437 -2.2048611,1.98437 H 0 V 5.29167 h 4.1892359 q 1.1024306,0 1.1024306,-0.66145 0,-0.66146 -1.1024306,-0.66146 z" />
+  <path
+     id="path8419"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Elemental End';-inkscape-font-specification:'Elemental End';letter-spacing:0px;word-spacing:0px;fill:currentcolor;fill-opacity:1;stroke:none;stroke-width:0.22577778"
+     d="M 9.2604161,6.61459 H 7.9374995 V 1e-5 h 1.3229166 z" />
+  <path
+     id="path8421"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Elemental End';-inkscape-font-specification:'Elemental End';letter-spacing:0px;word-spacing:0px;fill:currentcolor;fill-opacity:1;stroke:none;stroke-width:0.22577778"
+     d="m 17.197916,3.08681 v 3.52778 h -4.409722 q -2.204861,0 -2.204861,-2.20486 V 2.20487 q 0,-2.20486 2.204861,-2.20486 h 4.409722 v 1.32291 h -4.228923 q -1.062743,0 -1.062743,1.05834 v 1.84767 q 0,1.06274 1.067152,1.06274 h 2.901597 V 3.08681 Z" />
+  <path
+     id="path8423"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Elemental End';-inkscape-font-specification:'Elemental End';letter-spacing:0px;word-spacing:0px;fill:currentcolor;fill-opacity:1;stroke:none;stroke-width:0.22577778"
+     d="M 19.843749,2.87074 V 6.61459 H 18.520832 V 1e-5 h 1.353785 L 22.489582,5.14615 25.104547,1e-5 h 1.353785 V 6.61459 H 25.135415 V 2.86633 l -1.90059,3.74385 v 0.00441 h -1.490486 z" />
+  <path
+     id="path8425"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Elemental End';-inkscape-font-specification:'Elemental End';letter-spacing:0px;word-spacing:0px;fill:currentcolor;fill-opacity:1;stroke:none;stroke-width:0.22577778"
+     d="M 33.024408,6.61459 30.872463,1.66247 28.724929,6.61459 h -1.44198 L 30.153679,1e-5 h 1.437569 l 2.870729,6.61458 z" />
+</svg>
