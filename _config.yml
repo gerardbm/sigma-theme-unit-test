@@ -75,7 +75,7 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
-version: "4.1.6"
+version: "4.1.8"
 custom_css: custom.css
 # custom_head: custom_head.html
 # custom_js_top: custom_top.js
