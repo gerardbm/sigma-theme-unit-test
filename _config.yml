@@ -75,7 +75,7 @@ copyright: Made with love ♥
 
 # Add scripts
 latex: false
-version: "4.1.11"
+version: "4.2.2"
 custom_css: custom.css
 # custom_head: custom_head.html
 # custom_js_top: custom_top.js
@@ -90,6 +90,7 @@ defaults:
     values:
       read_time: true
       breadcrumbs: true
+      author_type: Organization
       share: true
       rouge: true
       nav_by: cat
@@ -98,7 +99,6 @@ defaults:
       sidebar: right
       sticky_side: true
       postmeta: true
-      ldjson: true
       og_type: article
       sidenav:
         posts: true

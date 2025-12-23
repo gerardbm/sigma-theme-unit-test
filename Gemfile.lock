@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/gerardbm/sigma-theme.git
-  revision: 3dca539d18d58305a876c11fe2fb81323e65b0cf
+  revision: d24b52446ee9a6f7907cefad66dfbd2a6d95b270
   specs:
     sigma-theme (0.1.0)
       jekyll (~> 4.0)
@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://gitlab.com/gerardbm/rouge-3.git
-  revision: 6ef4965e3384c3642b726d4fa341df0f915fd075
+  revision: f44a6ed76cbe2426641bb6793edaad8f75b47bc9
   specs:
     rouge (3.30.0)
 
